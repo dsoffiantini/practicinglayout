@@ -1,0 +1,106 @@
+body {
+  background: darkgray;
+}
+.header {
+  margin: 10px;
+  background: lightgray;
+  border-radius: 5px;
+  overflow: hidden;
+  clear: both;
+}
+
+.logo {
+  float: left;
+  background: lightblue;
+  height: 150px;
+  width: 360px;
+  margin: 20px;
+}
+
+.link {
+  float: right;
+  background: lightblue;
+  margin: 20px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.main-nav {
+  float: left;
+  width: 30%;
+  height: 70vh;
+  border-radius: 5px;
+  background: teal;
+  clear:both;
+}
+.container {
+  width: 65%;
+  float:right;
+  margin: 10px;
+  background: lightgray;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.smallbox {
+  overflow: hidden;
+}
+
+.red {
+  height: 200px;
+  width: 25%;
+  background: red;
+  float: left;
+  text-align: center;
+}
+
+.blue {
+  height: 200px;
+  width: 25%;
+  background: blue;
+  float: left;
+  text-align: center;
+}
+
+.yellow {
+  height: 200px;
+  width: 25%;
+  background: yellow;
+  float: left;
+  text-align: center;
+}
+
+.green {
+  height: 200px;
+  width: 25%;
+  background: green;
+  float: left;
+  text-align: center;
+}
+
+.large-box {
+  overflow:hidden;
+  background: lightgray;
+}
+
+.black {
+  height: 40vh;
+  width: 60%;
+  background: black;
+  float: left;
+}
+
+.white {
+  height: 40vh;
+  width: 30%;
+  background:white;
+  float: right;
+}
+
+.footer {
+  background: pink;
+  position: absolute;
+  bottom: 0px;
+  height: 5vh;
+  width: 100%;
+}
